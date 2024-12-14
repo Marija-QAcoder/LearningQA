@@ -4,5 +4,5 @@
 # e togit
 
 
-git config --global user.email "marija.stanisic9443@gmail.com"
-  git config --global user.name "Marija-QAcoder"
+git config --global user.email "masdfa.stanisicsdfs@gmail.com"
+  git config --global user.name "Marsdf"
