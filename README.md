@@ -1,2 +1,0 @@
-# LearningQA
-grhteheher
